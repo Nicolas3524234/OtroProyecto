@@ -14,9 +14,7 @@ _Este tamen_
 
 ~Este texto vai estar tachado~
 
-	**This text is _extremely_ important**
-
- ***All this text is important***
+ ***Negrita e cursiva***
 
  <sub>Subscript</sub>
 
@@ -33,3 +31,59 @@ Códigos de colores aceptados
   #RRGGBB
   rgb(R,G,B)
   hsl(H,S,L)
+
+  Enlaces [Enlace(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+
+
+  ![Foto insertada de octocat](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+Listas :
+	-
+ 	-
+  	-
+   	*
+    	*
+     	*
+      	+
+       	+	
+	+	
+
+
+De tarefas
+	- [] 
+ 	- []
+  	- [x]
+
+Emojis
+	Pulgar hacia arriba -> :+1:
+ 	Raton con sombrero -> :shipit:
+
+
+  Notas a pe de paxina
+
+  	pé de páxina simple[^1]
+
+
+   Notas/alertas
+
+> [!NOTE]
+> para dar informacion importante 
+
+> [!TIP]
+> Axuda
+
+> [!IMPORTANT]
+> Aviso de pasos ou algo importante
+
+> [!WARNING]
+> perigo
+
+> [!CAUTION]
+> coidado
+
+
+
