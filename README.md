@@ -10,6 +10,26 @@
 
 _Este tamen_
 
--este texto esta tachado-
 
-~Este texto~
+
+~Este texto vai estar tachado~
+
+	**This text is _extremely_ important**
+
+ ***All this text is important***
+
+ <sub>Subscript</sub>
+
+ <sup>Superscript</sup>
+
+ >Esto es una cita
+
+Comandos Básicos de Git :
+  git status
+  git add
+  git commit
+
+Códigos de colores aceptados 
+  #RRGGBB
+  rgb(R,G,B)
+  hsl(H,S,L)
