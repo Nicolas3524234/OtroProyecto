@@ -86,4 +86,33 @@ Emojis
 > coidado
 
 
+Tablas
+
+| Primeiro encabezado | Segundo encabezado |
+| ------------------- | ------------------ |
+| Celda de contido    | Ceelda de contido  |
+| Celda de contido    | Ceelda de contido  |
+
+seccions colapsadas
+<details>
+
+<summary>Trucos para as seccions colapsadas</summary>
+
+### podes añadir un encabezado
+
+Podes engadir texto entre unha seccion colapsada
+
+podes engadir unha imaxe 
+
+```ruby
+	puts "Hello World"
+```
+
+</details>
+
+expresions matemáticas
+$\` para empezar unha expresion matemática
+
+
+
 
