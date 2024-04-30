@@ -113,6 +113,14 @@ podes engadir unha imaxe
 expresions matemáticas
 $\` para empezar unha expresion matemática
 
+Enlaces
+
+https://github.com/jlord/sheetsee.js/issues/26
+
+podense engadir arquivos co boton do clip da parte superior
+o maximo son 25 mb para arquivos varios
+10 mb para fotos, gif e videos dun usuario gratuito e 100 mb de video para un usuario de pago
+
 
 
 
